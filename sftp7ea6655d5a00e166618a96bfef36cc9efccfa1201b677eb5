@@ -1,0 +1,9 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var nextConfig = {
+    allowedDevOrigins: [
+        "114.10.150.133",
+        "http://114.10.150.133:3000",
+    ],
+};
+exports.default = nextConfig;
